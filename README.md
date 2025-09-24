@@ -119,37 +119,26 @@ CCRM-Java-Project
 ![VS Code Project](screenshots/project-structure.png)
 ![CLI Running](screenshots/cli-run.png)
 ![Backup Folder](screenshots/backup.png)
+
         
-# Eclipse Setup 
-1. File → New → Java Project  
-2. Name project: `CCRM-Java-Project`  
-3. Copy source files into `edu/ccrm/...`  
-4. Run `MainMenu.java`  
-
-# Assertions
-In code:
-```java
-assert credits > 0 : "Credits must be positive";
-
-Run with assertions enabled:
-        java -ea edu.ccrm.cli.MainMenu
-
-             or 
-# Compile all java files with package structure
-        javac -d . $(find edu -name "*.java")
-
-# Run the main program
-        java edu.ccrm.cli.MainMenu
-
-
-## Screenshots
-
-**1. JDK Version Verification**
-![JDK Installation Verification](screenshots/java-version.png)
 
 **2. Eclipse Project Setup**
 ![Eclipse Project Setup](screenshots/eclipse-project-setup.png)
 
 **3. Program Running in Console**
 ![Program Running in Eclipse Console](screenshots/program-running-in-console.png)
+
+
+# Eclipse Setup 
+1. File → New → Java Project  
+2. Name project: `CCRM-Java-Project`  
+3. Copy source files into `edu/ccrm/...`  
+4. Run `MainMenu.java`  
+# Assertions
+In code:
+```java
+assert credits > 0 : "Credits must be positive";
+
+
+
 
