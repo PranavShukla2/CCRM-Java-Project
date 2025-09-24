@@ -120,12 +120,13 @@ CCRM-Java-Project
 ![CLI Running](screenshots/cli-run.png)
 ![Backup Folder](screenshots/backup.png)
 
-        
+**. Eclipse Installation**
+![ Eclipse Installation](screenshots/jdk-installation.png)
 
-**2. Eclipse Project Setup**
+**. Eclipse Project Setup**
 ![Eclipse Project Setup](screenshots/eclipse-project-setup.png)
 
-**3. Program Running in Console**
+**. Program Running in Console**
 ![Program Running in Eclipse Console](screenshots/program-running-in-console.png)
 
 
